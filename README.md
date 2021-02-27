@@ -12,3 +12,7 @@ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=b0f3282cd
 
 # Today's Network activity
 Basic connectivity from instances in public subnet to databases in private subnet
+
+
+# New Local repository newUmy
+https://github.com/bq144145/Automation100
