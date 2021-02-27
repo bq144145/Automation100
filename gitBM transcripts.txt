@@ -16,3 +16,71 @@ or
 
  cd Users/sundaram/Desktop/voitekk/0.7/backend/h/d\ stuffs/git/gitJ/BankingManagement/
 
+git init 	< create local repository (it will create hidden file)
+
+
+
+#Commit local repo files
+
+
+git status 	< current repository status (which are untracked state)
+
+git add filename	< moving file to the stage state
+
+git add . 	< all file move it to the stage state
+
+git status
+
+git commit -m "this is automation started"	< taking all files to the tracked state
+
+git status
+
+
+
+#Undo files from stage to track
+
+git status
+
+Open and update one of the file and save it moreover, add one more file in same folder
+
+git status
+
+git add fileupdatedName
+
+git status
+
+git commit -m "updated automation file"
+
+git status
+
+git reset HEAD test.rar		< to un track the file from stage state
+
+git status
+
+
+git add test.rar
+
+git status
+
+git commit -m "comminting reseted file from un tracked state"
+
+git status
+
+
+
+git log 		< 	to check the logs of activities along with all the commits we've done previously
+
+
+
+
+
+#Check and discard the changes
+
+
+
+open a file, make changes, save it 
+
+git status
+
+git diff filename	< it will show the changes before and after 
+
