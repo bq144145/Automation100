@@ -1,0 +1,18 @@
+git config --global user.name "test" < create user
+
+git config user.name	< to verify 
+
+git config --global user.email "test@gmail.com" < create user's email
+
+git config user.email 	<	 to verify
+
+git config --list	< to check default config (from top) and our config entries at the bottom
+
+Create local repository
+
+cd C:/Desktop/voitekk/0.7/backend/h/d stuffs/git/gitJ	< change location before creating of local repository
+
+or
+
+ cd Users/sundaram/Desktop/voitekk/0.7/backend/h/d\ stuffs/git/gitJ/BankingManagement/
+
