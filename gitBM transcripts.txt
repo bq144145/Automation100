@@ -84,3 +84,32 @@ git status
 
 git diff filename	< it will show the changes before and after 
 
+git -- checkout filename	< to undo the changes which we've done previously in the given filename
+
+
+
+
+#Push code to Remote repository
+
+do we attached any remote repository with our local repository?
+
+git remote -v 	< to check
+
+now we are going to make a link between our local to remote repository
+
+git remote add origin "https://github.com/bq144145/Automation100.git"
+
+re check 
+
+$ git remote -v
+origin  https://github.com/bq144145/Automation100.git (fetch)	< one is to fetch the data
+origin  https://github.com/bq144145/Automation100.git (push)	< one is to push the data
+
+
+Now we need to send pur data from local repository to remote repository
+
+git push origin master	< by default we have master branch to check > git branch
+
+
+
+
