@@ -157,3 +157,26 @@ https://developers.redhat.com/products/rhel/hello-world
 git status
 
 
+[
+https://www.google.com/search?source=hp&ei=9vY8YKfvDsGH8QOh-ZKQBw&iflsig=AINFCbYAAAAAYD0FBk1XYhPzhUN5h6iD88Yc4cG1JrBt&q=how+to+install+linux+apache+mysql+php+%28lamp%29+stack+on+centos+8&oq=How+to+Install+Apache%2C+MySQL%2C+PHP+%28LAMP%29+on+CentOS%2FRHEL&gs_lcp=Cgdnd3Mtd2l6EAEYAjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeUJUCWJUCYJcVaABwAHgAgAGwAYgBsAGSAQMwLjGYAQCgAQKgAQGqAQdnd3Mtd2l6&sclient=gws-wiz
+
+
+https://tecadmin.net/install-lamp-centos-8/
+
+https://tecadmin.net/firewalld-on-linux/
+
+https://tecadmin.net/setup-letsencrypt-ssl-with-apache-on-centos-8/
+https://tecadmin.net/apache-redirect-http-to-https/
+
+https://tecadmin.net/install-apache-centos8/
+https://tecadmin.net/install-apache-php-fpm-centos-8/
+
+https://tecadmin.net/create-sftp-user-without-shell-access-on-centos-8/
+https://stackoverflow.com/questions/66088845/skipping-bootstrap-because-certbot-auto-is-deprecated-on-this-system-when-using
+
+https://tecadmin.net/security-tips-for-lamp-stack-on-linux/
+
+
+
+]
+
