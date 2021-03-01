@@ -134,6 +134,26 @@ ls
 We would be able to see all the files now as we have cloned it
 
 
+https://www.google.com/search?client=firefox-b-d&q=LAMP+stack+best+practices+redhat+7
 
+https://www.rosehosting.com/blog/how-to-secure-your-lamp-server/
+
+https://www.opensourceforu.com/2019/05/securing-a-lamp-server-in-2019/
+
+https://tecadmin.net/security-tips-for-lamp-stack-on-linux/
+
+https://tecadmin.net/install-lamp-apache-mysql-and-php-on-centos-rhel-7/
+
+https://tecadmin.net/security-tips-for-lamp-stack-on-linux/
+
+https://developers.redhat.com/blog/2016/08/23/setting-up-a-lamp-stack-on-rhel/
+
+https://httpd.apache.org/docs/current/vhosts/examples.html
+
+https://gist.github.com/chales/11359952
+
+https://developers.redhat.com/products/rhel/hello-world
+
+git status
 
 
