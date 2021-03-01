@@ -1,3 +1,6 @@
+[https://www.udemy.com/course/robot-framework-jenkins-integration/learn/lecture/13519372#overview]
+
+
 git config --global user.name "test" < create user
 
 git config user.name	< to verify 
@@ -109,6 +112,27 @@ origin  https://github.com/bq144145/Automation100.git (push)	< one is to push th
 Now we need to send pur data from local repository to remote repository
 
 git push origin master	< by default we have master branch to check > git branch
+
+
+go to web browser > click on automation100 and see all files have been pushed to the remote repository
+
+
+
+
+
+#Clone code from remote repository
+
+
+git clone "https://github.com/bq144145/Automation100"		< clone all the contents of the Remote repository to the current BRepository
+
+ls
+
+ cd Automation100/
+
+ls
+
+We would be able to see all the files now as we have cloned it
+
 
 
 
